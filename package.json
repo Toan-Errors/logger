@@ -1,6 +1,6 @@
 {
   "name": "@toanerrors/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logger functionality for express middleware",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
