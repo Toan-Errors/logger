@@ -1,0 +1,31 @@
+{
+  "name": "@toanerrors/logger",
+  "version": "1.0.0",
+  "description": "Logger functionality for express middleware",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Toan-Errors/async-middleware.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "logger"
+  ],
+  "author": "errors @toanerrors",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
