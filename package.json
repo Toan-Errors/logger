@@ -1,6 +1,6 @@
 {
   "name": "@toanerrors/logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logger functionality for express middleware",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Toan-Errors/logger.git"
+    "url": "git@github.com:toanerrors/logger.git"
   },
   "publishConfig": {
     "access": "public"
